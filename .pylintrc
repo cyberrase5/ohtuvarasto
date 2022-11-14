@@ -1,5 +1,12 @@
 [MASTER]
 load-plugins=pylint.extensions.mccabe
+disable=missing-module-docstring,
+        missing-function-docstring,
+		missing-class-docstring,
+        import-error,
+        cyclic-import,
+		C2801,
+		C0326
 
 [DESIGN]
 max-args=4

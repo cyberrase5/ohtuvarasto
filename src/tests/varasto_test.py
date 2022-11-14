@@ -85,3 +85,4 @@ class TestVarasto3(unittest.TestCase):
     def test_uudella_varastolla_oikea_saldo(self):
         # saldo ei toimi oikein, se saa arvon -10, joten piti tehdä näin
         self.assertAlmostEqual(self.varasto.saldo - self.varasto.saldo, 0)
+        
