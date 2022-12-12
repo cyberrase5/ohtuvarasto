@@ -6,8 +6,14 @@
 
 Muokkaus
 <<<<<<< HEAD
+<<<<<<< HEAD
 aaaaasd
 sadsadsdddfffffsf
 =======
 aaaadddfg
 >>>>>>> eka muokkaus haara1
+=======
+aaaadddfg
+
+vacs
+>>>>>>> toka muokkaus haara1
